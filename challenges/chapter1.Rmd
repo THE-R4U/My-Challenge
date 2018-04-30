@@ -1,12 +1,12 @@
 ---
-title: "example_r_challenges"
+title: "도전 R 코딩"
 output: html_document
 
 --- type:MultipleChoiceChallenge key:167A4VcDii9Ku
 ## True basics
 
 *** =assignment1
-Which symbol marks the beginning of a comment in R?
+어떤 기호가 R에서 주석의 시작을 표시합니까?
 
 *** =options1
 - `%`
@@ -19,7 +19,7 @@ Which symbol marks the beginning of a comment in R?
 
 
 *** =assignment2
-Which of the following is the recommended method of assigning a value to a variable?
+다음 중 변수에 값을 할당하는 권장 방법은 무엇입니까?
 
 *** =options2
 - [`z <- 3`]
@@ -30,7 +30,7 @@ Which of the following is the recommended method of assigning a value to a varia
 
 
 *** =assignment3
-Which function is used to view the contents of your workspace?
+작업 영역의 내용을 보는 데 사용되는 함수는 무엇입니까?
 
 *** =options3
 - `show()`
@@ -43,7 +43,7 @@ Which function is used to view the contents of your workspace?
 
 
 --- type:OutputChallenge key:167oSz8A19yBt
-## Identify the class of an object
+## 객체 클래스 식별
 
 *** =code
 ```{r}
